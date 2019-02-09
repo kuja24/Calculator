@@ -1,0 +1,21 @@
+.keys{
+    margin-left:40%;
+    margin-top:10%;
+}
+#txt{
+    font-size: 30px;
+    width:100px;
+}
+.formstyle{
+    margin-left:38%;
+    margin-top:20px;
+}
+input{
+    width:80px;
+    height:50px;
+    background-color:rgb(5, 5, 82);
+    color:white;
+}
+#diff{
+    width:330px;
+}
